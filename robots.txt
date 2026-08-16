@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-x658yi.indcuan.cfd/sitemap.xml
